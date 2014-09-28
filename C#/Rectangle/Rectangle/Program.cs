@@ -24,6 +24,7 @@ namespace Rectangle
             bool isSquare = rece.IsSquare();
             Console .WriteLine ("矩形是否为正方形：{0}",isSquare );
             Console.ReadKey();
+
         }
     }
 }
