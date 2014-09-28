@@ -1,0 +1,50 @@
+-- VERSION_4
+-- START DISKCACHE
+F:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\learn\com.python.pydev.analysis\v2_indexcache
+raising|1411784240380|F:\python\learn\raising.py
+lambda|1411796107662|F:\python\learn\lambda.py
+poem|1411785502633|F:\python\learn\poem.py
+cat|1411792546934|F:\python\learn\cat.py
+time|1411785721483|F:\python\learn\time.py
+try_except|1411782991036|F:\python\learn\try_except.py
+address_book|1411796902586|F:\python\learn\address_book.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+7=raising
+4=lambda
+1=poem
+5=cat
+9=member
+10=member.__init__
+11=ShortInputException.__init__
+2=time
+3=address_book
+6=try_except
+8=ShortInputException
+-- END DICTIONARY
+-- START TREE 1
+12
+f|2|f!11@f!19@
+fil|1|filename!27@
+lin|2|line!11@line!19@
+mak|1|make_repeater!34@
+mem|1|member!25@
+poe|1|poem!11@
+rea|1|readfile!42@
+s|1|s!51@
+sel|1|select!26@
+sho|1|ShortInputException!57@
+twi|1|twice!35@
+upd|1|update!26@
+-- END TREE
+-- START TREE 2
+7
+__i|2|__init__!8&58@__init__!9&26@
+add|1|address!10&27@
+atl|1|atleast!11&59@
+len|1|length!11&59@
+nam|1|name!10&27@
+s|1|s!8&59@
+tel|1|tel!10&27@
+-- END TREE
