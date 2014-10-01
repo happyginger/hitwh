@@ -10,7 +10,7 @@ namespace DataChange
     {
         static void Main(string[] args)
         {
-            Console.Title = "数据转换";
+            Console.Title = "数据转换_Ginger";
             char next = 'y';
             do
             {
